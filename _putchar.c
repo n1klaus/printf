@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * _putchar - print characters to stdout
- * Return 1 if successful
+ * @c : character
+ * Return: number of "characters" of element called
  */
 int _putchar(char c)
 {
