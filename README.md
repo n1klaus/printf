@@ -28,5 +28,5 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 
 Nick Nyanjui
 
-Mitchel Gitau
+Mitchel Njeri Gitau
 
